@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning internet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cerbon
-- 😄 Pronouns: Nadi
+- 😄 Pronouns: adi
 - ⚡ Fun fact: oooo
 
 <!---
