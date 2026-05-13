@@ -8,7 +8,8 @@
 
 ### 📊 Statistik GitHub Saya:
 ![Statistik GitHub Nadi](vercel.app)
-
+### 🚀 Bahasa Pemrograman yang Sering Digunakan:
+![Bahasa Teratas Nadi](vercel.app)
 <!---
 NadiWarnadi/NadiWarnadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
