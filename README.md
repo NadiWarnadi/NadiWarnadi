@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/NadiWarnadi"><img src="https://img.shields.io/badge/Maintained%3F-yes-31E1F7?style=flat-square" alt="Maintained"></a>
-  <a href="https://github.com/NadiWarnadi"><img src="https://img.shields.io/github/stars/warnadi/db-stressmit?style=flat-square&color=FEE715" alt="Stars"></a>
+  <a href="https://github.com/NadiWarnadi"><img src="https://github.com/NadiWarnadi/db-stressmit/badges/stars.svg" alt="Stars"></a>
 </p>
 
 Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memiliki ketertarikan mendalam pada pengembangan sistem backend, arsitektur database, optimasi performa kueri, keamanan jaringan, dan dunia open-source. Saya terbiasa membangun solusi teknologi di berbagai platform, mulai dari web, mobile, hingga desktop dan sistem Linux.
@@ -12,7 +12,7 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 
 ### 🛠️ Teknologi & Keahlian (Tech Stack)
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
       <h4>🌐 Web & Backend Development</h4>
@@ -40,8 +40,7 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
     <td valign="top" width="50%">
       <h4>⚙️ System Programming (Basics)</h4>
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     </td>
   </tr>
@@ -61,9 +60,13 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=flat&count_private=true&hide_border=true" alt="Statistik GitHub NadiWarnadi" height="195" />
-  <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=NadiWarnadi&layout=donut&theme=flat&langs_count=8&count_private=true&exclude_repo=NadiWarnadi&hide_border=true" alt="Bahasa Pemrograman Terbanyak NadiWarnadi" height="195" />
+  <!-- Alternatif statistik dengan tema gradasi metalik modern, dijamin lebih stabil -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Statistik GitHub NadiWarnadi" width="48%" />
+  <!-- Menampilkan kontribusi streak coding kamu biar kelihatan dinamis -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadiWarnadi&theme=calm&hide_border=true" alt="GitHub Streak NadiWarnadi" width="48%" />
 </p>
+
+---
 
 ### 📬 Mari Terhubung
 * 📍 **Lokasi:** Cirebon, Jawa Barat, Indonesia
