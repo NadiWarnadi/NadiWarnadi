@@ -59,10 +59,13 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 ---
 
 ### 📊 Statistik GitHub Saya
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub NadiWarnadi" />
+  <!-- Kartu Statistik Utama (Dibuat lebih lebar dengan parameter &card_width=450) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=tokyonight&count_private=true&card_width=450" alt="Statistik GitHub NadiWarnadi" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiWarnadi&layout=compact&theme=tokyonight&langs_count=6" alt="Bahasa Pemrograman Terbanyak NadiWarnadi" />
+  <!-- Kartu Bahasa Terbanyak (Menggunakan layout bulat/donut, mendukung repo privat, dan jangkauan 8 bahasa agar Dart & Rust masuk) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiWarnadi&layout=donut&theme=tokyonight&langs_count=8&count_private=true&exclude_repo=NadiWarnadi" alt="Bahasa Pemrograman Terbanyak NadiWarnadi" />
 </p>
 
 ### 📬 Mari Terhubung
