@@ -59,9 +59,10 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 ---
 
 ### 📊 Statistik GitHub Saya
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub NadiWarnadi" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiWarnadi&layout=compact&theme=tokyonight&langs_count=6" alt="Bahasa Pemrograman Terbanyak NadiWarnadi" />
 </p>
 
 ### 📬 Mari Terhubung
