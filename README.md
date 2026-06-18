@@ -2,8 +2,15 @@
 ### 🚀 Full-Stack Developer & Software Engineer
 
 <p align="left">
-  <a href="https://github.com/NadiWarnadi"><img src="https://img.shields.io/badge/Maintained%3F-yes-31E1F7?style=flat-square" alt="Maintained"></a>
-  <a href="https://github.com/NadiWarnadi"><img src="https://github.com/NadiWarnadi/db-stressmit/badges/stars.svg" alt="Stars"></a>
+  <!-- Badge TOTAL STARS Semua Repo Kamu (Dinamis & Otomatis) -->
+  <a href="https://github.com/NadiWarnadi">
+    <img src="https://img.shields.io/github/stars/NadiWarnadi?style=flat-square&color=FEE715&label=Total%20Stars" alt="Total Stars">
+  </a>
+  
+  <!-- Badge TOTAL FOLLOWERS Akun Kamu -->
+  <a href="https://github.com/NadiWarnadi">
+    <img src="https://img.shields.io/github/followers/NadiWarnadi?style=flat-square&color=31E1F7&label=Followers" alt="Followers">
+  </a>
 </p>
 
 Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memiliki ketertarikan mendalam pada pengembangan sistem backend, arsitektur database, optimasi performa kueri, keamanan jaringan, dan dunia open-source. Saya terbiasa membangun solusi teknologi di berbagai platform, mulai dari web, mobile, hingga desktop dan sistem Linux.
