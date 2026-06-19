@@ -56,7 +56,7 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 ---
 
 ### 📦 Proyek Open-Source Unggulan
-* **[db-stressmit](https://github.com/warnadi/db-stressmit)** - Smart database query benchmark, heuristic security auditor, and stress tester for PHP and Laravel.
+* **[db-stressmit](https://github.com/NadiWarnadi/db-stressmit)** - Smart database query benchmark, heuristic security auditor, and stress tester for PHP and Laravel.
 
 ### 🌱 Fokus saat Ini
 * Mendalami arsitektur jaringan internet modern (*networking*), keamanan siber (*cybersecurity*), dan optimasi kueri database tingkat lanjut.
