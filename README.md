@@ -1,5 +1,5 @@
 # 👋 Halo, Saya Warnadi (Adi)
-### 🚀 Full-Stack Developer & Software Engineer
+###  Full-Stack Developer & Software Engineer
 
 <p align="left">
   <!-- Badge TOTAL STARS Semua Repo Kamu (Dinamis & Otomatis) -->
