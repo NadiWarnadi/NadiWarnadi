@@ -70,7 +70,7 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
   <tr>
     <td valign="top" width="50%">
       <!-- Statistik Utama -->
-      <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Statistik GitHub NadiWarnadi" width="100%" />
+      <img src="https://vercel.app/api?username=NadiWarnadi&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Statistik GitHub NadiWarnadi" width="100%" />
     </td>
     <td valign="top" width="50%">
       <!-- Kontribusi Streak -->
