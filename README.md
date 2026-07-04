@@ -69,22 +69,23 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <!-- Statistik Utama -->
-      <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Statistik GitHub NadiWarnadi" width="100%" />
+      <!-- Statistik Utama (Ditambahkan &cache_seconds=1800) -->
+      <img src="https://vercel.app" alt="Statistik GitHub NadiWarnadi" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <!-- Kontribusi Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadiWarnadi&theme=calm&hide_border=true" alt="GitHub Streak NadiWarnadi" width="100%" />
+      <!-- Kontribusi Streak (Migrasi ke server demolab + anti-cache) -->
+      <img src="https://demolab.com" alt="GitHub Streak NadiWarnadi" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" width="100%">
       <br />
-      <!-- Real-Time Persentase Bahasa Pemrograman (Termasuk Repo Privat) -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiWarnadi&theme=calm&langs_count=8&count_private=true&exclude_repo=NadiWarnadi&hide_border=true&layout=compact" alt="Persentase Bahasa NadiWarnadi" width="100%" />
+      <!-- Real-Time Persentase Bahasa Pemrograman (Ditambahkan &cache_seconds=1800) -->
+      <img src="https://vercel.app" alt="Persentase Bahasa NadiWarnadi" width="100%" />
     </td>
   </tr>
 </table>
+
 
 ---
 
