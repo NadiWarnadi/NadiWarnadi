@@ -1,9 +1,9 @@
-name: Generate GitHub Stats
+name: Generate GitHub Summary Cards
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Berjalan otomatis setiap 12 jam
-  workflow_dispatch: # Memungkinkan Anda menjalankan manual kapan saja
+    - cron: '0 */12 * * *' # Berjalan setiap 12 jam otomatis
+  workflow_dispatch: # Bisa dijalankan manual via tombol
 
 jobs:
   build:
@@ -14,22 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Menghasilkan Grafik Aktivitas Kontribusi
-      - uses: ashutosh00710/github-readme-activity-graph@master
+      # Menggunakan Action khusus pembuat kartu statistik lokal
+      - uses: vn7n24f1tr1/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: NadiWarnadi
           THEME: calm
-          CUSTOM_TITLE: Grafik Aktivitas GitHub Saya
-          AREA: true
-          BG_COLOR: "00000000" # Membuat background transparan
 
-      # Menyimpan hasil generate ke repositori Anda otomatis
+      # Menyimpan hasilnya ke folder repositori Anda otomatis
       - name: Commit & Push Gambar
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
-          git add profile-summary-card-output/ github-readme-activity-graph.svg || true
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/ || true
           git commit -m "Ubah: Perbarui gambar statistik otomatis" || true
           git push || true
