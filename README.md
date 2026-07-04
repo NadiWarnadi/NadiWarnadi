@@ -65,32 +65,24 @@ Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketert
 ---
 
 ### 📊 Statistik GitHub Saya
+### 📊 Statistik GitHub Saya
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <!-- Statistik Utama (Ditambahkan &cache_seconds=1800) -->
-      <img src="https://vercel.app" alt="Statistik GitHub NadiWarnadi" width="100%" />
+      <!-- Statistik Utama -->
+      <img src="https://github-readme-stats.vercel.app/api?username=NadiWarnadi&show_icons=true&theme=radial&cache_seconds=1800" alt="Statistik GitHub NadiWarnadi" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <!-- Kontribusi Streak (Migrasi ke server demolab + anti-cache) -->
-      <img src="https://demolab.com" alt="GitHub Streak NadiWarnadi" width="100%" />
+      <!-- Kontribusi Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadiWarnadi&theme=radial" alt="GitHub Streak NadiWarnadi" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" width="100%">
       <br />
-      <!-- Real-Time Persentase Bahasa Pemrograman (Ditambahkan &cache_seconds=1800) -->
-      <img src="https://vercel.app" alt="Persentase Bahasa NadiWarnadi" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" valign="top" width="100%">
-      <!-- Memanggil gambar SVG lokal hasil generate GitHub Action -->
-      <img src="./github-readme-activity-graph.svg" alt="Grafik Aktivitas GitHub NadiWarnadi" width="100%" />
+      <!-- Real-Time Persentase Bahasa Pemrograman -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiWarnadi&layout=compact&theme=radial&cache_seconds=1800" alt="Persentase Bahasa NadiWarnadi" width="100%" />
     </td>
   </tr>
 </table>
