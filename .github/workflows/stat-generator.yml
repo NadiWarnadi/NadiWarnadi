@@ -1,0 +1,35 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Berjalan otomatis setiap 12 jam
+  workflow_dispatch: # Memungkinkan Anda menjalankan manual kapan saja
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      # Menghasilkan Grafik Aktivitas Kontribusi
+      - uses: ashutosh00710/github-readme-activity-graph@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: NadiWarnadi
+          THEME: calm
+          CUSTOM_TITLE: Grafik Aktivitas GitHub Saya
+          AREA: true
+          BG_COLOR: "00000000" # Membuat background transparan
+
+      # Menyimpan hasil generate ke repositori Anda otomatis
+      - name: Commit & Push Gambar
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add profile-summary-card-output/ github-readme-activity-graph.svg || true
+          git commit -m "Ubah: Perbarui gambar statistik otomatis" || true
+          git push || true

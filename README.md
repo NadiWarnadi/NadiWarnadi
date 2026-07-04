@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memiliki ketertarikan mendalam pada pengembangan sistem backend, arsitektur database, optimasi performa kueri, keamanan jaringan, dan dunia open-source. Saya terbiasa membangun solusi teknologi di berbagai platform, mulai dari web, mobile, hingga desktop dan sistem Linux.
+Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketertarikan mendalam pada pengembangan sistem backend, arsitektur database, optimasi performa kueri, keamanan jaringan, dan dunia open-source. Saya terbiasa membangun solusi teknologi di berbagai platform, mulai dari web, mobile, hingga desktop dan sistem Linux.
 
 ---
 
@@ -86,6 +86,14 @@ Saya seorang pengembang perangkat lunak asal **Cirebon, Indonesia**. Saya memili
   </tr>
 </table>
 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <!-- Memanggil gambar SVG lokal hasil generate GitHub Action -->
+      <img src="./github-readme-activity-graph.svg" alt="Grafik Aktivitas GitHub NadiWarnadi" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
