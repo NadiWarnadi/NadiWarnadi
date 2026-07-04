@@ -11,13 +11,15 @@ jobs:
     name: generate-github-cards
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
-      
-      # Menggunakan Action khusus pembuat kartu statistik lokal
-      - uses: vn7n24f1tr1/github-profile-summary-cards@release
+
+      # PERBAIKAN: Menggunakan nama pembuat yang benar (vn7n24fzkq)
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Pastikan Anda sudah membuat PAT di Settings repositori dengan nama TOKEN_KARTU
+          GITHUB_TOKEN: ${{ secrets.TOKEN_KARTU }}
         with:
           USERNAME: NadiWarnadi
           THEME: calm
