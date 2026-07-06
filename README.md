@@ -16,7 +16,7 @@
 Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketertarikan mendalam pada pengembangan sistem backend, arsitektur database, optimasi performa kueri, keamanan jaringan, dan dunia open-source. Saya terbiasa membangun solusi teknologi di berbagai platform, mulai dari web, mobile, hingga desktop dan sistem Linux.
 
 ---
-
+[![Google Developer Profile](https://shields.io)](https://g.dev)
 <a href="https://g.dev/warnadi" target="_blank">
   <img src="https://gstatic.com" width="80" alt="Google Developer Badge" title="Lihat Profil Google Developer Saya"/>
 </a>
