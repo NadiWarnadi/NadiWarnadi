@@ -67,7 +67,6 @@ Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketert
 ---
 
 ### 📊 Statistik GitHub Saya
-### 📊 Statistik GitHub Saya
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
