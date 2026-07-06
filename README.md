@@ -17,6 +17,11 @@ Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketert
 
 ---
 
+<a href="https://g.dev/warnadi" target="_blank">
+  <img src="https://gstatic.com" width="80" alt="Google Developer Badge" title="Lihat Profil Google Developer Saya"/>
+</a>
+
+
 ### 🛠️ Teknologi & Keahlian (Tech Stack)
 
 <table align="center" width="100%">
