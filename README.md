@@ -67,8 +67,9 @@ Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketert
 ---
 ### 📊 Statistik GitHub Saya
 
-![Statistik Utama](profile/stats.svg alt="Statistik GitHub NadiWarnadi")
-![Bahasa Pemrograman](profile/top-langs.svg alt="Persentase Bahasa NadiWarnadi")
+![Statistik GitHub NadiWarnadi](profile/stats.svg)
+![Persentase Bahasa NadiWarnadi](profile/top-langs.svg)
+
 
 ### 📊 Statistik GitHub Saya
 
