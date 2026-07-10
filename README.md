@@ -65,6 +65,10 @@ Saya seorang pengembang perangkat lunak asal **Indonesia**. Saya memiliki ketert
 * Terbuka untuk kolaborasi pada proyek full-stack, perkakas (*tools*) pengujian backend, dan kontribusi open-source.
 
 ---
+### 📊 Statistik GitHub Saya
+
+![Statistik Utama](profile/stats.svg)
+![Bahasa Pemrograman](profile/top-langs.svg)
 
 ### 📊 Statistik GitHub Saya
 
