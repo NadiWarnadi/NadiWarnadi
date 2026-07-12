@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "NadiWarnadi"
           git config --global user.email "warnadi2006@gmail.com"
           git add profile/*.svg
-          git commit -m "chore: Update GitHub Readme Stats" || exit 0
+          git commit -m "chore: Update GitHub Readme Stats ($(date +'%Y-%m-%d %H:%M:%S'))" || exit 0
           git push
