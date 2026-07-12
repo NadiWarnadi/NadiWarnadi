@@ -2,7 +2,7 @@ name: Generate GitHub Readme Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Berjalan otomatis setiap 6 jam
+    - cron: '0 0 * * 0' # Berjalan otomatis setiap hari Minggu pukul 00:00 UTC 
   workflow_dispatch: # Memungkinkan Anda menjalankan manual kapan saja
 
 jobs:
